@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\bin\Debug\net6.0-windows\QuizAssignment.exe
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\bin\Debug\net6.0-windows\QuizAssignment.deps.json
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\bin\Debug\net6.0-windows\QuizAssignment.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\bin\Debug\net6.0-windows\QuizAssignment.dll
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\bin\Debug\net6.0-windows\ref\QuizAssignment.dll
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\bin\Debug\net6.0-windows\QuizAssignment.pdb
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.dll
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\ref\QuizAssignment.dll
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.pdb
+C:\Users\Lenovo\Documents\GitHub\QQQ\qq\QuizAssignment\QuizAssignment\obj\Debug\net6.0-windows\QuizAssignment.genruntimeconfig.cache
